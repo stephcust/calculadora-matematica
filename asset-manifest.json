@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/calculadora-matematica/static/js/main.78ab4eda.js",
+    "static/js/787.509827db.chunk.js": "/calculadora-matematica/static/js/787.509827db.chunk.js",
+    "index.html": "/calculadora-matematica/index.html",
+    "main.78ab4eda.js.map": "/calculadora-matematica/static/js/main.78ab4eda.js.map",
+    "787.509827db.chunk.js.map": "/calculadora-matematica/static/js/787.509827db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.78ab4eda.js"
+  ]
+}
